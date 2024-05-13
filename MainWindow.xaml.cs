@@ -12,7 +12,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+/*Name: Ryan Daly 
+ * Student Number: S00237889
+ * May Exam Object Oriented Programming
+ * Link to GitHub Repo : https://github.com/Ryan2805/OODMayExam
+ * 
+ * 
+ * 
+*/
 namespace WpfApp1
 {
     /// <summary>
